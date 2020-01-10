@@ -1,5 +1,5 @@
 {
-"pessoa":[{
+"pessoa":{
 	"id": 1,
 	"nome": "Testador",
 	"sobrenome": "Teste",
@@ -23,5 +23,5 @@
 	"sobrenome": "pega esse aqui",
 	"idade": "29"
 	},
-]
+
 }
